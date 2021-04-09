@@ -18,6 +18,18 @@ public class Demo {
 		System.out.println("oneplus 9");
 	}
 	
+	private void blackberry() {
+		System.out.println("Blackberry have been lost for a while");
+	}
+	
+	private void rog() {
+		System.out.println("one of the best gaming phone");
+	}
+	
+	private void blackshark() {
+		System.out.println("best gaming phone ever");
+	}
+	
 	
 	
 
